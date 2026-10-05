@@ -20,3 +20,6 @@ verify(result)
 
 result= linear_search(list_numbers, 8)
 verify(result)
+
+result= linear_search(list_numbers,3)
+verify(result)
